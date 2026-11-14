@@ -1,0 +1,17 @@
+{
+  "source_archive": "Paper1_Question_Review_Complete_20261031_final.zip",
+  "source_archive_sha256": "b217c1a8ecdffb4456302c5f632b1a9a53e011860996fdaef5e46af474c5b476",
+  "export_date": "2026-11-13",
+  "selected_source_stages": [
+    "01_core_direct",
+    "08_luna_haiku_lifelike",
+    "07_deepseek_paired8192",
+    "02_core_hybrid",
+    "10_prompt48"
+  ],
+  "extraction": "Existing frozen messages and reference answers copied without regeneration. Message strings and original message hashes preserved. Research-side answers stored separately. No model calls or new statistical analyses.",
+  "target_source_member": "worlds_research_side.json",
+  "target_source_sha256": "535578f9901e1d083df2fa07353d3c03ab4d929df0c4c1305cab469337b5cd69",
+  "source_member_hashes_file": "source_member_hashes.jsonl.gz",
+  "selected_source_members": 1296
+}

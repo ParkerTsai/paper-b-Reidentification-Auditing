@@ -1,0 +1,22 @@
+{
+  "worlds_exactly_regenerated": 384,
+  "paired_rows": 1536,
+  "presentations": 3072,
+  "full_counterfactual_partition_checks": 1536,
+  "archived_lifelike_artifact_row_matches": 1536,
+  "archived_lifelike_artifact_total": 1536,
+  "final_review_lifelike_checked": 1536,
+  "final_review_lifelike_mismatches": 0,
+  "secret_pattern_scan_hits": 0,
+  "paid_calls": 0,
+  "note": "Current disclosure checks; not historical model-score reproduction.",
+  "final_review_lifelike_contract": "luna_haiku_payloads.jsonl; historical original aliases instruction",
+  "final_review_core_coded_exact": 1536,
+  "final_review_deepseek_paired_exact": 3072,
+  "total_model_contract_payloads_exact": 6144,
+  "mapping_selection_generator": "not located; frozen original mapping used",
+  "offline_full_generation_status": "passed",
+  "no_paid_requests": true,
+  "packaging_smoke_tests": 3,
+  "packaging_smoke_tests_passed": 3
+}

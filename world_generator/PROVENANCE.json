@@ -1,0 +1,52 @@
+{
+  "packaging": "new portable offline adapter, no historical sources overwritten",
+  "original_freeze_version": "v8.5.4",
+  "original_freeze_time": "2026-10-19T11:00:55.850231+00:00",
+  "world_master_seed": "v8.5-confirmatory-20261019-v1",
+  "sources": [
+    {
+      "path": "source_original/MAPPINGS.json",
+      "sha256": "af10c02c3c45849d09c4139a380f2b9f55e84a2ec898ec648c7fae1c9de7694f",
+      "bytes": 668077,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/core_solver.py",
+      "sha256": "de8b04b90dc9e92a17fb464938427c8cf91380915d02098c901630dcda16f92b",
+      "bytes": 26233,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/core_utility.py",
+      "sha256": "a62022d5ff7033b9f4be529127e6a34554703d6bdb3604664701abfd3787aab0",
+      "bytes": 11888,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/core_v85.py",
+      "sha256": "d5bb5d44e41fd5fa79fa1a4da707b94c451cae39567ba5fdce5c3e0da3df67af",
+      "bytes": 25921,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/narrative_candidate.py",
+      "sha256": "a5c47d867db4686d4f7e30386d493e7f70d5c0d7a13114826cd0a703ba1747b2",
+      "bytes": 10642,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/payloads_v85.py",
+      "sha256": "a0a9f12319c58f9e79aa2353b7bde57ee4b70a0a3a7b452dfe6d38816dd32611",
+      "bytes": 4052,
+      "status": "original bytes"
+    },
+    {
+      "path": "source_original/test_revision.py",
+      "sha256": "d5bff27ca4f976beadd087c2d8dbaa1f2e295e8d696d00d5e4c47574446899c4",
+      "bytes": 3973,
+      "status": "original bytes"
+    }
+  ],
+  "historical_source_archive": "reidentification_paper1_submission_v7_20261027.zip",
+  "historical_worlds_sha256": "dea106a6e1847f865d23211fcf489366423fea5618e0325a3f1597da7b816641"
+}

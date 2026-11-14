@@ -1,10 +1,11 @@
 # Candidate Sets as References for Re-identification Auditing
 
-Manuscript-specific research materials, copied without changing the scientific files.
+This repository provides fixed test inputs, reference answers, scoring specifications, and the offline world generator for the paper.
 
-- [Start here: complete reproduction package](privacy-symposium-reproducibility-20261114/START_HERE_zh.md)
-- [Frozen evaluation inputs and reference answers](Candidate%20Sets%20as%20References%20for%20Re-identification%20Auditing/README.md)
+- [Fixed evaluation dataset](Candidate%20Sets%20as%20References%20for%20Re-identification%20Auditing/README.md)
+- [World generator](world_generator/README.md)
+- [Scope and validation](DISCLOSURE_SCOPE.md)
 
-The two source folders are preserved byte-for-byte. Historical access-status statements describe their original preparation context; this repository is public. See each package's provenance and limitations. No unrelated historical research directories are included.
+The dataset includes the main evaluation and the solver96/prompt48 diagnostic inputs in Appendix D. Model responses, result statistics, account records, and unrelated research are not included. Historical files retain their original provenance statements; the generator is supplied separately here.
 
-This copy does not modify the submitted manuscript or its historical repository references.
+See the scope document for reconstruction limits. The submitted manuscript is not modified by this release.

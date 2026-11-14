@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "source_members_verified": 1297,
+  "frozen_message_records_verified": 6720,
+  "main_worlds": 384,
+  "main_question_presentations": 3072,
+  "main_message_variants_per_question": 2,
+  "diagnostic_solver_worlds": 96,
+  "diagnostic_solver_message_records": 384,
+  "diagnostic_prompt_worlds": 48,
+  "diagnostic_prompt_message_records": 192,
+  "checks": [
+    "Source-member SHA256 matches original archive manifest",
+    "All exported message hashes match preserved frozen messages",
+    "Exactly 20 unique candidate IDs per question",
+    "Reference probability vector covers all candidates",
+    "Reference support and candidate correctness labels agree",
+    "Singleton D/I and uniform five-person SD/SI distributions",
+    "Sampled target belongs to each reference support",
+    "All 384 main worlds cover both presentations and all four conditions",
+    "Reference answers and candidate order agree across main presentations",
+    "Main D/I and SD/SI supports agree",
+    "The 96 solver worlds are a subset of the main worlds",
+    "The 48 prompt-comparison worlds are distinct from the main worlds"
+  ],
+  "limitations": [
+    "These are export-integrity and reference-consistency checks, not a new independent semantic verification.",
+    "The release contains no generation code, model responses, historical tie-priority arrays, or claim to reproduce the original API outputs."
+  ]
+}
