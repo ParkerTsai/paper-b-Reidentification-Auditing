@@ -4,7 +4,7 @@
 
 Ming-Han Tsai, Feng Chia University. Fixed evaluation dataset accompanying the manuscript, release 2026-11-13.
 
-This release contains the existing evaluation questions, exact frozen model-visible messages, reference candidate sets, conditional identity distributions, and scoring documentation. It supports evaluation on the same test instances. The world generator is not included.
+This release contains the existing evaluation questions, exact frozen model-visible messages, reference candidate sets, conditional identity distributions, and scoring documentation. It supports evaluation on the same test instances. This dataset folder does not contain generation code; the companion world generator is provided separately in [`../world_generator/`](../world_generator/README.md).
 
 ## What is included
 
@@ -52,6 +52,6 @@ The inputs preserve the actual system and user message strings. Historical reque
 
 The data were extracted from the existing author-review archive `Paper1_Question_Review_Complete_20261031_final.zip`. No worlds, questions, or reference answers were regenerated. No model calls or new scientific comparisons were performed for this release.
 
-The release contains synthetic data only. It excludes generation code, API credentials, model response logs, unrelated pilot studies, and unpublished development drafts. This is an evaluation-input release, not a complete reconstruction package for all original API executions. The validation report records export-integrity and reference-consistency checks; it is not a new independent semantic validation.
+The release contains synthetic data only. This folder excludes generation code, API credentials, model response logs, unrelated pilot studies, and unpublished development drafts; the repository provides generation code separately in [`../world_generator/`](../world_generator/README.md). This is an evaluation-input release, not a complete reconstruction package for all original API executions. The validation report records export-integrity and reference-consistency checks; it is not a new independent semantic validation.
 
 Contact: minghtsai@fcu.edu.tw.

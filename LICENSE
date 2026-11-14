@@ -1,0 +1,24 @@
+# Repository licensing
+
+Copyright (c) 2026 Ming-Han Tsai.
+
+The materials in this repository are licensed by file type:
+
+- Python source code (`*.py`), including the generator, solvers, adapters and tests: MIT License. See LICENSE-MIT.txt.
+- Synthetic datasets, frozen mappings, reference answers, schemas, scoring specifications, provenance records, checksums, and documentation: Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt and https://creativecommons.org/licenses/by/4.0/.
+- License texts themselves retain their applicable original terms.
+
+For attribution of data and documentation, identify Ming-Han Tsai and
+"Candidate Sets as References for Re-identification Auditing: Separating
+Information Retention from Attacker Performance in Controlled Worlds",
+link to https://github.com/ParkerTsai/paper-b-Reidentification-Auditing,
+retain the license notice, and indicate modifications as required by CC BY 4.0.
+
+These explicit grants supersede historical general statements in this repository
+that no license had yet been supplied. They cover only rights the licensor is
+authorized to grant in the materials actually included here. They do not license
+external linked materials or the separately submitted manuscript. Any separately
+identified third-party rights remain subject to their own terms.
+
+The full license texts govern. No additional restriction on permitted reuse is
+introduced by the repository's research-scope or reproducibility descriptions.
