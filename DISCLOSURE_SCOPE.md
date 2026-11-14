@@ -16,8 +16,6 @@ The generator reproduces all 384 main worlds and both coded/lifelike presentatio
 
 No raw model responses, result statistics, account ledgers, credentials, unpublished unrelated research, or paid execution code are included. Do not submit reference answers or latent frozen-world truth as model input. Original sources and provenance are preserved, including historical version labels and access-status statements; this repository is public. Public availability does not imply a license beyond any explicit license supplied by the author.
 
-The revised manuscript still cites the older `8ff59e...` repository snapshot. That immutable snapshot does not contain this generator; the author must update the data-availability URL to this repository or its final commit. This release does not edit the manuscript.
-
 ## Integrity
 
 The fixed dataset contains its original SHA256SUMS. The generator contains its original SHA256SUMS for its base module; ALL_GENERATOR_SHA256SUMS additionally covers the later public-text solver verification files. These hashes describe exact files, not guarantees of new stochastic model output reproducibility.
